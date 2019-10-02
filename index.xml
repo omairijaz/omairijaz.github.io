@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 19:22:04 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 19:22:15 -0500</lastBuildDate>
     
 	<atom:link href="https://omairijaz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RatePoint</title>
+      <link>https://omairijaz.github.io/project/ratepoint/</link>
+      <pubDate>Tue, 01 Oct 2019 19:22:15 -0500</pubDate>
+      
+      <guid>https://omairijaz.github.io/project/ratepoint/</guid>
+      <description> Work In Progress </description>
+    </item>
     
     <item>
       <title>HelpTrain</title>
@@ -19,6 +28,15 @@
       
       <guid>https://omairijaz.github.io/project/helptrain/</guid>
       <description> Work In Progress </description>
+    </item>
+    
+    <item>
+      <title>PunchClock</title>
+      <link>https://omairijaz.github.io/project/punchclock/</link>
+      <pubDate>Tue, 01 Oct 2019 19:21:57 -0500</pubDate>
+      
+      <guid>https://omairijaz.github.io/project/punchclock/</guid>
+      <description> Work in Progress </description>
     </item>
     
     <item>
