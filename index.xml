@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omair Ijaz&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://omairijaz.github.io/</link>
     <description>Recent content on Omair Ijaz&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 01 Oct 2019 13:21:43 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omairijaz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://omairijaz.github.io/about/</link>
       <pubDate>Tue, 01 Oct 2019 13:21:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://omairijaz.github.io/about/</guid>
       <description> WORK IN PROGRESS </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <link>https://omairijaz.github.io/post/my-first-post/</link>
       <pubDate>Tue, 01 Oct 2019 13:01:45 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>https://omairijaz.github.io/post/my-first-post/</guid>
       <description> WORK IN PROGRESS </description>
     </item>
     
     <item>
       <title>Senior Design</title>
-      <link>http://localhost:1313/project/seniordesign/</link>
+      <link>https://omairijaz.github.io/project/seniordesign/</link>
       <pubDate>Tue, 01 Oct 2019 12:51:46 -0500</pubDate>
       
-      <guid>http://localhost:1313/project/seniordesign/</guid>
+      <guid>https://omairijaz.github.io/project/seniordesign/</guid>
       <description> WORK IN PROGRESS </description>
     </item>
     
